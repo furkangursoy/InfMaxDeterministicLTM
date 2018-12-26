@@ -1,5 +1,5 @@
 # InfMaxDeterministicLTM
-Material for the paper titled "Predicting Diffusion Reach Probabilities via Representation Learning on Social Networks"
+Material for the paper titled "Influence maximization in social networks under deterministic linear threshold model"
 
 The preprint of the manuscript is available in this repository. Alternatively, you can use the following link for accessing the manuscript through the publisher's website: https://doi.org/10.1016/j.knosys.2018.07.040
 
