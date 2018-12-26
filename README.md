@@ -1,6 +1,6 @@
 # InfMaxDeterministicLTM
 
-F. Gursoy and D. Gunnec, Influence maximization in social networks under deterministic linear threshold model, Knowledge-Based Systems. 2018.
+F. Gursoy and D. Gunnec, Influence maximization in social networks under Deterministic Linear Threshold Model, Knowledge-Based Systems. 2018.
 
 
 
